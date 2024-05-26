@@ -113225,4 +113225,4 @@ const preElement = document.getElementById('json-data');
 
 preElement.style.fontSize = '18px';
 
-preElement.innerHTML = JSON.stringify(arr, null, 1);
+preElement.innerHTML = JSON.stringify(arr, null, 2);
